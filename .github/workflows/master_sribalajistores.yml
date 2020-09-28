@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'sribalajistores'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8643af6e30004a5b9b7d0a34752425ba }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_cf557950a4164b7392b28281ee2cc8c0 }}
         package: .
